@@ -1,7 +1,5 @@
 
-Among the missing child cases a large percentage of children remain untraced. So our
-project make use of deep learning methodology for identifying the reported missing child
-from the photos of multitude of children available, with the help of face recognition. So
-that the public can upload photographs of suspicious child into a common portal with
-landmarks and remarks. The photo will be automatically compared with the registered
-photos of the missing child from the repository.
+Among the missing child cases a large percentage of children remain untraced. So our project make use of deep learning methodology for identifying the reported missing child from the photos of multitude of children available, with the help of face recognition. So that the public can upload photographs of suspicious child into a common portal with landmarks and remarks. The photo will be automatically compared with the registered photos of the missing child from the repository.
+Many NGOs claim that estimates of missing children  are much higher than reported. The missing from one region may be found in another region or  another state, for various reasons. So even if a child is found, it is  difficult to identify him/her from the reported missing cases. The public is given provision to voluntarily take  photographs of children in suspected situations and  uploaded in that portal. Automatic searching of this  photo among the missing child case images will be  provided in the application. This supports the police  officials to locate the child anywhere in India.
+
+
