@@ -1,4 +1,4 @@
-1.Pre processing
+1. Pre processing
 
 2. Upload Photo
 
@@ -19,7 +19,6 @@ the photo of the missing child into the portal.
 the portal with details like place, time, landmarks and remarks. 
 
 \\
-
 Search:
  Whenever users uploads photo of a suspected child, the system
 generates template vector of the facial features from the uploaded
